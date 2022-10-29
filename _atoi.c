@@ -2,9 +2,9 @@
 
 /**
  * interactive - returns true if shell is interactive mode
- * @info: struct address
+ * @info: struct address 
  *
- * Return: 1 if interactive mode, 0 otherwise
+ * Return: 1 if interactive mode, 0 otherwiseb
  */
 int interactive(info_t *info)
 {

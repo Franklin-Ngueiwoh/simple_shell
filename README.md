@@ -17,7 +17,7 @@
 - Shell should not have any memory leaks
 - No more than 5 functions per file
 - All header files should be include guarded
-- Write a README with the description of the project
+- Write a README with the description of the project.
 
 
 ## Description ##

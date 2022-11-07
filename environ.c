@@ -2,7 +2,7 @@
 
 /**
  * _myenv - prints the current environment
- * @info: Structure containing potential arguments. Used to maintain
+ * @info: Structure containiing potential arguments. Used to maintain
  *          constant function prototype.
  * Return: Always 0
  */
